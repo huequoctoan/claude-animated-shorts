@@ -1,0 +1,27 @@
+{
+  "name": "short_auto",
+  "version": "1.0.0",
+  "description": "The free Claude skill from the video **\"How to Make Viral Animated Shorts Using Claude (Full Workflow)\"**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/fiber": "^9.8.2",
+    "@react-three/postprocessing": "^3.2.2",
+    "@remotion/bundler": "^4.0.541",
+    "@remotion/cli": "^4.0.541",
+    "@remotion/renderer": "^4.0.541",
+    "@remotion/three": "^4.0.541",
+    "@types/three": "^0.187.0",
+    "postprocessing": "^6.39.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.541",
+    "three": "^0.187.0",
+    "typescript": "^7.0.2"
+  }
+}
